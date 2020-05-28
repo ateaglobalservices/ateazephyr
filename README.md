@@ -1,3 +1,3 @@
-# Welcome to Atea Zephyr
+This project contains the public documentation of the AteaZephyr portal.
 
-Here we will publish our wiki
+[Click here to read our wiki](https://github.com/ateaglobalservices/ateazephyr/wiki)
